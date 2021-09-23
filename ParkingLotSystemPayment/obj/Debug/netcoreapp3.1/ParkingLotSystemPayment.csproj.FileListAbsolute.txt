@@ -1,0 +1,14 @@
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\obj\Debug\netcoreapp3.1\ParkingLotSystemPayment.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\obj\Debug\netcoreapp3.1\ParkingLotSystemPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\obj\Debug\netcoreapp3.1\ParkingLotSystemPayment.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\obj\Debug\netcoreapp3.1\ParkingLotSystemPayment.AssemblyInfo.cs
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\obj\Debug\netcoreapp3.1\ParkingLotSystemPayment.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\bin\Debug\netcoreapp3.1\ParkingLotSystemPayment.exe
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\bin\Debug\netcoreapp3.1\ParkingLotSystemPayment.deps.json
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\bin\Debug\netcoreapp3.1\ParkingLotSystemPayment.runtimeconfig.json
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\bin\Debug\netcoreapp3.1\ParkingLotSystemPayment.runtimeconfig.dev.json
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\bin\Debug\netcoreapp3.1\ParkingLotSystemPayment.dll
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\bin\Debug\netcoreapp3.1\ParkingLotSystemPayment.pdb
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\obj\Debug\netcoreapp3.1\ParkingLotSystemPayment.dll
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\obj\Debug\netcoreapp3.1\ParkingLotSystemPayment.pdb
+C:\Users\122589\source\repos\ParkingLotSystemPayment\ParkingLotSystemPayment\obj\Debug\netcoreapp3.1\ParkingLotSystemPayment.genruntimeconfig.cache
